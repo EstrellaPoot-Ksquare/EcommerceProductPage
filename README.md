@@ -2,6 +2,6 @@
 
 # Live demo
 
-Here is the [live demo](https://estrellapoot-ksquare.github.io/MV_EcommerceProductPage/)
+Here is the [live demo](https://estrellapoot-ksquare.github.io/EcommerceProductPage/)
 
 ![ScreenShot](screenshot.png)
